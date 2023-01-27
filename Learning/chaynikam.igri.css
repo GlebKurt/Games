@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(26, 110, 110);
+}
+
+#Title{
+    color: aquamarine;
+    background-color: rgb(19, 145, 145);
+    width: 50%;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+    border-bottom: 7px solid rgb(23, 193, 193);
+    margin-bottom: 20px;
+    margin-left: 240px;
+    position: fixed absolute;
+}
+#Genshin{
+    margin-left: 240px;
+    margin-bottom: 0;
+    float: left;
+}
+
+#Dota{
+    float: left;
+    margin-left: 100px;
+}
+
+#Foot{
+    color: rgb(36, 98, 98);
+    background-color: rgb(15, 49, 49);
+    width: 100%;
+    height: 50px;
+    margin-top: 310px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+#Main{
+    float: left;
+    
+}
